@@ -32,3 +32,6 @@ let g:netrw_list_hide=netrw_gitignore#Hide()
 "Remaps
 nnoremap <leader>pv :edit . <ENTER>
 
+nmap ,p "0p
+nmap ,P "0P
+
